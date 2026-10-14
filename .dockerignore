@@ -1,0 +1,6 @@
+*
+!requirements.txt
+!app.py
+!forensic_extensions.py
+!wayback_extensions.py
+!Dockerfile
